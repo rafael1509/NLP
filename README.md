@@ -70,3 +70,11 @@ Selecionado o nome do título, o próximo passo é encontrar o texto referente a
 recebe como parâmetro o nome digitado e devolve o texto referente a esse título. Como alguns títulos são nomes de pessoas
 e estão no formato `SOBRENOME, nome`, tivemos que consertar isso para facilitar a busca do usuário. A sumarização segue a 
 mesma forma da explicada anteriormente. A dificuldade enfrentada nessa etapa foi detalhada no issue [problema#6](https://github.com/emap-ic/assignment-f-nlp/issues/6).
+
+<h2 id=equipe>Colaboradores:</h2>
+  
+  * [Matheus Araripe](https://github.com/MatheusAraripe)
+  
+  * [Rafael dos Santos](https://github.com/rafael1509)
+  
+  * [Davi Pestana](https://github.com/DaviPestana)
